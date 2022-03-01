@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\bin\Debug\net5.0\RFP-day4-practiceProblems.exe
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\bin\Debug\net5.0\RFP-day4-practiceProblems.deps.json
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\bin\Debug\net5.0\RFP-day4-practiceProblems.runtimeconfig.json
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\bin\Debug\net5.0\RFP-day4-practiceProblems.runtimeconfig.dev.json
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\bin\Debug\net5.0\RFP-day4-practiceProblems.dll
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\bin\Debug\net5.0\RFP-day4-practiceProblems.pdb
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\obj\Debug\net5.0\RFP-day4-practiceProblems.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\obj\Debug\net5.0\RFP-day4-practiceProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\obj\Debug\net5.0\RFP-day4-practiceProblems.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\obj\Debug\net5.0\RFP-day4-practiceProblems.AssemblyInfo.cs
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\obj\Debug\net5.0\RFP-day4-practiceProblems.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\obj\Debug\net5.0\RFP-day4-practiceProblems.dll
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\obj\Debug\net5.0\refint\RFP-day4-practiceProblems.dll
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\obj\Debug\net5.0\RFP-day4-practiceProblems.pdb
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\obj\Debug\net5.0\RFP-day4-practiceProblems.genruntimeconfig.cache
+C:\Users\user\Desktop\newpgm\RFP-day4-practiceProblems\RFP-day4-practiceProblems\obj\Debug\net5.0\ref\RFP-day4-practiceProblems.dll

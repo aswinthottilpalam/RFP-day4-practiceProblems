@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RFP-day4-practiceProblems/1.0.0": {
+        "runtime": {
+          "RFP-day4-practiceProblems.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RFP-day4-practiceProblems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
